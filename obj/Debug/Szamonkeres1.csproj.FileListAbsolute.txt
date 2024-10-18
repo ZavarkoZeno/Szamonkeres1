@@ -1,0 +1,7 @@
+C:\Users\zavarkoz\Git\Szamonkeres1\bin\Debug\Szamonkeres1.exe.config
+C:\Users\zavarkoz\Git\Szamonkeres1\bin\Debug\Szamonkeres1.exe
+C:\Users\zavarkoz\Git\Szamonkeres1\bin\Debug\Szamonkeres1.pdb
+C:\Users\zavarkoz\Git\Szamonkeres1\obj\Debug\Szamonkeres1.csproj.AssemblyReference.cache
+C:\Users\zavarkoz\Git\Szamonkeres1\obj\Debug\Szamonkeres1.csproj.CoreCompileInputs.cache
+C:\Users\zavarkoz\Git\Szamonkeres1\obj\Debug\Szamonkeres1.exe
+C:\Users\zavarkoz\Git\Szamonkeres1\obj\Debug\Szamonkeres1.pdb
